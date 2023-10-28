@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThreadSemaforo</string>
+    <string name="btnIniciar">Iniciar</string>
+
+</resources>
